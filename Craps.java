@@ -69,7 +69,7 @@ public class Craps
     {
         int rollNumber = 1;
         Scanner in  = new Scanner(System.in);
-        System.out.println("Press <Enter to roll 2 dice>");
+        System.out.println("Press <Enter> to roll 2 dice");
         String cont = in.nextLine();
         Die die1 = new Die();
         Die die2 = new Die();
@@ -83,7 +83,7 @@ public class Craps
         {
             rollNumber++; //counts whether or not it's the first roll
             System.out.println();
-            System.out.println("Press <Enter to roll 2 dice>");
+            System.out.println("Press <Enter> to roll 2 dice");
             cont = in.nextLine(); //buffer
             die1.rollDie();
             die2.rollDie();
