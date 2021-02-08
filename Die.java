@@ -1,4 +1,9 @@
-
+/**
+ * Creates a die that can be rolled
+ *
+ * @author Dom
+ * @version 02-08-21
+ */
 /**
  * Creates a dice which can be rolled and returned
  */

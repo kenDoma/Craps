@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class Craps here.
+ * Plays a craps until the player chooses to exit
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Dom
+ * @version 02-08-21
  */
 import java.util.Scanner;
 public class Craps
