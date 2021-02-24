@@ -111,3 +111,17 @@ public class Craps
     }
 
 }
+
+
+/* 
+
+COMMENTS FROM THE INSTRUCTOR:
+
+I love that you split this up into a few static methods, Dom. Well done!
+There was supposed to be an option for seeing the instructions; maybe
+you forgot about that. Otherwise, nicely done!
+
+SCORE: 14/15
+
+*/
+
